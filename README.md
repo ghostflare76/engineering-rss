@@ -9,7 +9,7 @@
 ![RSS](https://img.shields.io/badge/RSS-Feed-FFA500?style=for-the-badge&logo=rss)
 ![Automation](https://img.shields.io/badge/100%25-Automated-00C853?style=for-the-badge)
 
-[🎯 데모 보기](#-데모) • 
+[🎯 데모 보기](https://ghostflare76.github.io/engineering-rss/newsletters/5jyi6dhHiLQu3BVMVGKrVG) 
 
 </div>
 
